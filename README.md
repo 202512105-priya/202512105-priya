@@ -1,46 +1,36 @@
-# Hi, I'm Priya Shah 👋
+# Hi there, I'm Priya! 👋
 
-I’m a developer exploring the overlap of **AI systems, data science, full-stack engineering, and mobile development**. I enjoy turning practical problems into end-to-end products—from data pipelines and predictive models to usable web and Android experiences.
+## 👩🏻‍💻 About Me
+- 🔭 I’m currently working on projects like **SHE-SHEILD** and **urban-traffic-analytics-forecasting**
+- 🌱 I’m constantly learning and expanding my skills in **Data Analytics, Machine Learning, and Android Development**
+- 💬 Ask me about **Python, C++, Kotlin, and Django**
+- 📫 How to reach me: **[Insert Email/LinkedIn]**
 
-## What I’m building
+## 🛠 Tech Stack
 
-| Focus | Progress | Highlights |
-| --- | --- | --- |
-| 🤖 AI & reliability engineering | Active | **[DebugMind](https://github.com/202512105-priya/debugmind)** — an AI reliability platform that ingests repositories and CI logs, performs hybrid retrieval, and produces evidence-backed debugging reports with LangGraph workflows. |
-| 📊 Data analytics & forecasting | Built | **[Urban Traffic Analytics & Forecasting](https://github.com/202512105-priya/urban-traffic-analytics-forecasting)** — an end-to-end traffic intelligence project spanning cleaning, SQL analytics, ML, forecasting, dashboards, and deployment. |
-| 🌐 Web development | Built | **[Art Gallery](https://github.com/202512105-priya/Art-Gallery)** — a Django-based web project. |
-| 📱 Android development | Exploring | **[Android](https://github.com/202512105-priya/Android)** — Kotlin/Jetpack Compose application work with Firebase services. |
-| 🧩 Problem solving | Ongoing | **[LeetCode Questions](https://github.com/202512105-priya/leetcode_questions)** — C++ solutions and algorithm practice. |
-| 🛡️ Social-impact technology | In progress | **[SHE-SHEILD](https://github.com/202512105-priya/SHE-SHEILD)** — a cyber-integrated women’s safety platform. |
+### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-## Tech stack
+### Frameworks & Libraries
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-**Languages**  
-Python · TypeScript · JavaScript · Kotlin · C++ · SQL
+### Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-**AI, backend & data**  
-FastAPI · LangGraph · RAG · PostgreSQL · pgvector · SQLAlchemy · Redis · Pandas · NumPy · scikit-learn · Prophet
+## 🚀 Projects
 
-**Frontend & mobile**  
-React · Vite · Tailwind CSS · TanStack Query · Recharts · Android · Jetpack Compose · Firebase
+| Project | Description | Tech Stack / Tags | Link |
+|---------|-------------|-------------------|------|
+| **[SHE-SHEILD](https://github.com/202512105-priya/SHE-SHEILD)** | Cyber-Integrated Safety Platform for Women | Cybersecurity, Safety | [Repo](https://github.com/202512105-priya/SHE-SHEILD) |
+| **[urban-traffic-analytics-forecasting](https://github.com/202512105-priya/urban-traffic-analytics-forecasting)** | Capstone project for Data Analytics, Machine Learning, SQL, and Forecasting | Python, ML, SQL | [Repo](https://github.com/202512105-priya/urban-traffic-analytics-forecasting) |
+| **[Art-Gallery](https://github.com/202512105-priya/Art-Gallery)** | Django-based art gallery project | Python, Django | [Repo](https://github.com/202512105-priya/Art-Gallery) |
+| **[Android](https://github.com/202512105-priya/Android)** | Android development project | Kotlin | [Repo](https://github.com/202512105-priya/Android) |
+| **[MachineLearning_Woc](https://github.com/202512105-priya/MachineLearning_Woc)** | Machine Learning projects/code | Machine Learning | [Repo](https://github.com/202512105-priya/MachineLearning_Woc) |
+| **[leetcode_questions](https://github.com/202512105-priya/leetcode_questions)** | My NeetCode.io problem submissions | C++, DSA | [Repo](https://github.com/202512105-priya/leetcode_questions) |
 
-**Tools & delivery**  
-Docker · Git · GitHub · Streamlit · Pytest · Alembic
+## 📊 GitHub Stats
 
-## Current direction
-
-- Building reliable AI-assisted developer tooling with grounded retrieval and traceable results.
-- Deepening my data engineering, machine learning, and forecasting practice through real-world analytics projects.
-- Growing across full-stack and Android development while keeping a consistent algorithm-practice habit.
-
-## Featured project
-
-### [DebugMind — Autonomous AI Reliability Engineer](https://github.com/202512105-priya/debugmind)
-
-DebugMind analyzes failed CI logs and codebases, then uses a multi-step LangGraph workflow to surface root-cause hypotheses, suggested fixes, confidence scores, and code-level citations. The project combines a FastAPI backend, PostgreSQL/pgvector, Redis, Docker, and a React + TypeScript dashboard.
-
----
-
-<p align="center">
-  <i>Open to learning, building, and collaborating on meaningful engineering projects.</i>
-</p>
+![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=202512105-priya&show_icons=true&theme=radium)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=202512105-priya&layout=compact&theme=radium)
