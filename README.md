@@ -42,12 +42,10 @@ I am a software developer with a strong foundation in **Data Analytics, Machine 
 | **[Android](https://github.com/202512105-priya/Android)** | Android development project | Kotlin | [Repo](https://github.com/202512105-priya/Android) |
 | **[MachineLearning_Woc](https://github.com/202512105-priya/MachineLearning_Woc)** | Machine Learning projects/code | Machine Learning | [Repo](https://github.com/202512105-priya/MachineLearning_Woc) |
 | **[leetcode_questions](https://github.com/202512105-priya/leetcode_questions)** | My NeetCode.io problem submissions | C++, DSA | [Repo](https://github.com/202512105-priya/leetcode_questions) |
+| **[SymptoScan](https://github.com/priiyu12/SymptoScan)** | A Disease Prediction and Consultation System | Python, ML | [Repo](https://github.com/priiyu12/SymptoScan) |
+| **[Aura Retail](https://github.com/)** | Retail project / details coming soon | - | [Repo](https://github.com/) |
 
-## 🌟 Open Source Contributions
 
-| Project | Description | Link |
-|---------|-------------|------|
-| **[SymptoScan](https://github.com/priiyu12/SymptoScan)** | A Disease Prediction and Consultation System | [Pull Requests](https://github.com/priiyu12/SymptoScan/pulls?q=is%3Apr+author%3A202512105-priya) |
 
 ## 📊 GitHub Stats
 
