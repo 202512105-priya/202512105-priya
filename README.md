@@ -6,7 +6,7 @@ I am an MSc Information Technology student at Dhirubhai Ambani University with a
 - 🔭 I’m currently working on advanced projects like **DebugMind**, **Urban Traffic Analytics**, and **Aura Retail OS**.
 - 🌱 I’m constantly learning and expanding my skills in **Artificial Intelligence, Cloud Computing, and Machine Learning**.
 - 💬 Ask me about **Python, C++, SQL, Django, FastAPI, Pandas, and Scikit-Learn**.
-- 📫 How to reach me: **[Insert Email/LinkedIn]**
+- 📫 How to reach me: **202512105@dau.ac.in**
 
 ## 🛠 Tech Stack
 
