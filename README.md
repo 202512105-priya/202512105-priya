@@ -4,17 +4,15 @@
 I am a software developer with a strong foundation in **Data Analytics, Machine Learning, and Full-Stack AI Development**. My portfolio spans a diverse range of technologies, from building production-grade AI applications using RAG and LangGraph to developing data engineering pipelines for urban traffic forecasting. I also have experience building Android applications and scalable backend systems using Django and FastAPI.
 
 - 🔭 I’m currently working on advanced projects like **DebugMind** (an Autonomous AI Reliability platform) and **urban-traffic-analytics-forecasting**
-- 🌱 I’m constantly learning and expanding my skills in **AI/ML, Systems Design, and Cybersecurity**
+- 🌱 I’m constantly learning and expanding my skills in **AI/ML**
 - 💬 Ask me about **Python, Data Science, AI Agents, React, Kotlin, and SQL**
-- 📫 How to reach me: **[Insert Email/LinkedIn]**
+- 📫 How to reach me: **202512105@dau.ac.in**
 
 ## 🛠 Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Frontend
@@ -39,11 +37,11 @@ I am a software developer with a strong foundation in **Data Analytics, Machine 
 | **[urban-traffic-analytics-forecasting](https://github.com/202512105-priya/urban-traffic-analytics-forecasting)** | Capstone project for Data Analytics, Machine Learning, SQL, and Forecasting | Python, ML, SQL | [Repo](https://github.com/202512105-priya/urban-traffic-analytics-forecasting) |
 | **[SHE-SHEILD](https://github.com/202512105-priya/SHE-SHEILD)** | Cyber-Integrated Safety Platform for Women | Cybersecurity, Safety | [Repo](https://github.com/202512105-priya/SHE-SHEILD) |
 | **[Art-Gallery](https://github.com/202512105-priya/Art-Gallery)** | Django-based art gallery project | Python, Django | [Repo](https://github.com/202512105-priya/Art-Gallery) |
-| **[Android](https://github.com/202512105-priya/Android)** | Android development project | Kotlin | [Repo](https://github.com/202512105-priya/Android) |
+| **[Library App](https://github.com/202512105-priya/Android)** | Android development project | Kotlin | [Repo](https://github.com/202512105-priya/Android) |
 | **[MachineLearning_Woc](https://github.com/202512105-priya/MachineLearning_Woc)** | Machine Learning projects/code | Machine Learning | [Repo](https://github.com/202512105-priya/MachineLearning_Woc) |
 | **[leetcode_questions](https://github.com/202512105-priya/leetcode_questions)** | My NeetCode.io problem submissions | C++, DSA | [Repo](https://github.com/202512105-priya/leetcode_questions) |
 | **[SymptoScan](https://github.com/priiyu12/SymptoScan)** | A Disease Prediction and Consultation System | Python, ML | [Repo](https://github.com/priiyu12/SymptoScan) |
-| **[Aura Retail](https://github.com/)** | Retail project / details coming soon | - | [Repo](https://github.com/) |
+| **[Aura Retail](https://github.com/)** | A Core concept implemented os project built on strong design patterns | - | [Repo](https://github.com/) |
 
 
 
