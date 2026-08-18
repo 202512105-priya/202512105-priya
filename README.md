@@ -1,53 +1,66 @@
-# Hi there, I'm Priya! 👋
+# Hi, I'm Priya Shah 👋
 
-## 👩🏻‍💻 About Me & Professional Brief
-I am a software developer with a strong foundation in **Data Analytics, Machine Learning, and Full-Stack AI Development**. My portfolio spans a diverse range of technologies, from building production-grade AI applications using RAG and LangGraph to developing data engineering pipelines for urban traffic forecasting. I also have experience building Android applications and scalable backend systems using Django and FastAPI.
+### AI, data, and full-stack developer building practical, reliable products.
 
-- 🔭 I’m currently working on advanced projects like **DebugMind** (an Autonomous AI Reliability platform) and **urban-traffic-analytics-forecasting**
-- 🌱 I’m constantly learning and expanding my skills in **AI/ML, Systems Design, and Cybersecurity**
-- 💬 Ask me about **Python, Data Science, AI Agents, React, Kotlin, and SQL**
-- 📫 How to reach me: **[Insert Email/LinkedIn]**
+I work across **AI systems, data analytics, backend engineering, and modern user experiences**. My projects range from evidence-grounded AI debugging tools to traffic forecasting platforms, web applications, and Android development.
 
-## 🛠 Tech Stack
+<p>
+  <a href="https://github.com/202512105-priya?tab=repositories"><img src="https://img.shields.io/badge/Repositories-7-181717?style=flat-square&logo=github" alt="Public repositories" /></a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20%7C%20Full--Stack-6f42c1?style=flat-square" alt="Focus areas" />
+</p>
 
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+## What I'm working on
 
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+- 🤖 Building **AI reliability tooling** that turns CI failures and codebase context into grounded, traceable debugging reports.
+- 📊 Developing **data analytics and forecasting** solutions for real-world urban traffic problems.
+- 🌱 Strengthening my software engineering foundations through backend, Android, and algorithm practice.
 
-### Backend, Data & AI
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+## Tech stack
 
-### Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-## 🚀 Projects
+## Featured work
 
-| Project | Description | Tech Stack / Tags | Link |
-|---------|-------------|-------------------|------|
-| **[debugmind](https://github.com/202512105-priya/debugmind)** | Autonomous AI Reliability Engineer with RAG & LangGraph | React, FastAPI, Python, pgvector | [Repo](https://github.com/202512105-priya/debugmind) |
-| **[urban-traffic-analytics-forecasting](https://github.com/202512105-priya/urban-traffic-analytics-forecasting)** | Capstone project for Data Analytics, Machine Learning, SQL, and Forecasting | Python, ML, SQL | [Repo](https://github.com/202512105-priya/urban-traffic-analytics-forecasting) |
-| **[SHE-SHEILD](https://github.com/202512105-priya/SHE-SHEILD)** | Cyber-Integrated Safety Platform for Women | Cybersecurity, Safety | [Repo](https://github.com/202512105-priya/SHE-SHEILD) |
-| **[Art-Gallery](https://github.com/202512105-priya/Art-Gallery)** | Django-based art gallery project | Python, Django | [Repo](https://github.com/202512105-priya/Art-Gallery) |
-| **[Android](https://github.com/202512105-priya/Android)** | Android development project | Kotlin | [Repo](https://github.com/202512105-priya/Android) |
-| **[MachineLearning_Woc](https://github.com/202512105-priya/MachineLearning_Woc)** | Machine Learning projects/code | Machine Learning | [Repo](https://github.com/202512105-priya/MachineLearning_Woc) |
-| **[leetcode_questions](https://github.com/202512105-priya/leetcode_questions)** | My NeetCode.io problem submissions | C++, DSA | [Repo](https://github.com/202512105-priya/leetcode_questions) |
-| **[SymptoScan](https://github.com/priiyu12/SymptoScan)** | A Disease Prediction and Consultation System | Python, ML | [Repo](https://github.com/priiyu12/SymptoScan) |
-| **[Aura Retail](https://github.com/)** | Retail project / details coming soon | - | [Repo](https://github.com/) |
+| Project | What it demonstrates | Core technologies |
+| --- | --- | --- |
+| [**DebugMind**](https://github.com/202512105-priya/debugmind) | An autonomous AI reliability engineer that analyzes CI logs and repositories, retrieves supporting context, and writes evidence-backed debugging reports. | FastAPI, LangGraph, RAG, React, TypeScript, PostgreSQL/pgvector, Redis, Docker |
+| [**Urban Traffic Analytics & Forecasting**](https://github.com/202512105-priya/urban-traffic-analytics-forecasting) | An end-to-end traffic intelligence workflow, from data preparation and SQL analytics to machine learning, forecasting, and dashboards. | Python, Pandas, scikit-learn, Prophet, PostgreSQL, Streamlit, Docker |
+| [**SHE-SHEILD**](https://github.com/202512105-priya/SHE-SHEILD) | A cyber-integrated safety platform focused on women’s safety. | Cybersecurity, safety technology |
+| [**Art Gallery**](https://github.com/202512105-priya/Art-Gallery) | A Django-based web application. | Python, Django |
+| [**Android**](https://github.com/202512105-priya/Android) | Native Android application development with modern UI and cloud services. | Kotlin, Jetpack Compose, Firebase |
 
+## Learning in public
 
+- [**LeetCode Questions**](https://github.com/202512105-priya/leetcode_questions) — ongoing C++ data structures and algorithms practice.
+- [**MachineLearning_Woc**](https://github.com/202512105-priya/MachineLearning_Woc) — machine-learning exploration and coursework.
 
-## 📊 GitHub Stats
+## GitHub activity
 
-![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=202512105-priya&show_icons=true&theme=radium)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=202512105-priya&layout=compact&theme=radium)
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=202512105-priya&show_icons=true&hide_title=true&theme=radical" alt="Priya's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=202512105-priya&layout=compact&theme=radical" alt="Top languages" />
+</p>
+
+---
+
+<p align="center"><i>Always learning, always building.</i></p>
